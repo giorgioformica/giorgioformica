@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giorgioformica
 - 👀 I’m interested in developing progressive web apps
-- 🌱 I’m currently learning React and Laravel Framework
+- 🌱 I’m currently learning React and Node.js
 - 💞️ I’m looking to collaborate on logistic visual monitor applications 
 - 📫 giorgio.formica@gmail.com
 
